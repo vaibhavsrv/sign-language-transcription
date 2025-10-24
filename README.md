@@ -20,7 +20,7 @@ Follow these steps to install and set up the application:
 	1.	Clone the Repository:
 If you haven’t already, clone the repository containing the project code.
 
-git clone https://github.com/keshav165/sign-language-live-transcription
+git clone https://github.com/vaibhavsrv/sign-language-live-transcription
 cd your-repository
 
 
